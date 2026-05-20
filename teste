@@ -1,0 +1,26 @@
+[
+  {
+    "regional": "SP",
+    "total": 120,
+    "concluidos": 98,
+    "pct": 81.6
+  },
+  {
+    "regional": "MG",
+    "total": 85,
+    "concluidos": 70,
+    "pct": 82.3
+  },
+  {
+    "regional": "RJ",
+    "total": 60,
+    "concluidos": 45,
+    "pct": 75.0
+  },
+  {
+    "regional": "RS",
+    "total": 42,
+    "concluidos": 38,
+    "pct": 90.5
+  }
+]
